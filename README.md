@@ -1,3 +1,3 @@
 # NetworkRoutingApplication-Cpp
-A Network Routing Application made in C++ using concepts of DSA
+A Network Routing Application made in C++ using concepts of DSA.<br>
 The project is a C++ console application for network routing. Users can create a Network topology with devices, connections, and weights. The application offers two algorithms, Dijkstra's and Bellman-Ford, to find the shortest paths from a chosen source vertex to all other vertices. The console output is enhanced with colored messages for better user interaction. Users input the topology details, select the source device, and choose the algorithm to apply. The program then displays the shortest paths. If a negative weight is detected during Dijkstra's algorithm, the user is prompted to choose Bellman-Ford.
